@@ -2,7 +2,9 @@
 
 > **"A high-frequency telemetry engine engineered to bridge the gap between Enterprise Dashboards and Physical ASIC Hardware."**
 
-### 📥 **Download App:** [MCC_Build_v1.0.zip](./MCC_App.zip)
+### 📥 **Download Options:**
+* **Direct GitHub Download:** [MCC_App.zip (v1.0)](https://github.com/AntonioDevTech/MinerControlCenter/raw/refs/heads/main/MCC_App.zip.zip)
+* **Official Web Portfolio:** [titanalfapro.org](https://titanalfapro.org) *(View full project details and alternate download)*
 
 ---
 
